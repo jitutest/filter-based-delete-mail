@@ -1,0 +1,5 @@
+{
+    "logURL":"logs/filter-based-logging.log",
+    "credentialsFile":"client_secret.json",
+    "searchText":"Pension Plan"
+}

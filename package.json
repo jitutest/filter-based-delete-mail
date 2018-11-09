@@ -1,0 +1,33 @@
+{
+  "name": "filter-based-delete-mail",
+  "version": "1.0.0",
+  "description": "filter based delete email from Gmail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jitutest/filter-based-delete-mail.git"
+  },
+  "keywords": [
+    "node",
+    "filter",
+    "based",
+    "delete",
+    "gamil"
+  ],
+  "author": "jitendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jitutest/filter-based-delete-mail/issues"
+  },
+  "homepage": "https://github.com/jitutest/filter-based-delete-mail#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "googleapis": "^27.0.0",
+    "inbox": "^1.1.59",
+    "path": "^0.12.7",
+    "winston": "^3.1.0"
+  }
+}
